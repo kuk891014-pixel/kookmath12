@@ -194,14 +194,15 @@ with st.expander("📍 오시는 길 및 문의 안내"):
         <div style="padding: 10px 0;">
             <div style="margin-bottom: 15px;">
                 <b>🏢 주소</b><br>
-                광주광역시 남구 봉선2로 49 3층 국희재수학전문학원 봉선점 (상세 주소를 여기에 입력해주세요)
+                광주광역시 남구 봉선2로 49 3층 국희재수학전문학원 봉선점 
             </div>
             <div>
                 <b>📞 상담 문의</b><br>
-                010-6662-6542 (전화번호를 입력해주세요)
+                010-6662-6542 
             </div>
         </div>
     """, unsafe_allow_html=True)
 
 # 7. 푸터
 st.markdown('<div class="footer">Kuk Hee Jae Math Specialist Academy<br>Bongseon Branch | Premium Education Service</div>', unsafe_allow_html=True)
+
